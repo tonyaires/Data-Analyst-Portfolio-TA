@@ -77,7 +77,9 @@ flowchart LR
 
 ## 🚀 Projects Portfolio
 
-![Fleet Analytics Dashboard](docs/Fleet%20Analytics%20Dashboard.png)
+## 📊 Dashboard Preview
+
+![Preview Dashboard](docs/preview-dashboard.png)
 
 ## ⭐ Featured Projects
 
