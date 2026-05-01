@@ -77,21 +77,33 @@ flowchart LR
 
 ## 🚀 Projects Portfolio
 
+![Fleet Analytics Dashboard](docs/Fleet%20Analytics%20Dashboard.png)
+
 ## ⭐ Featured Projects
 
 ### 📊 Eurofood — Customer & Sales Analytics
 RFM segmentation · loyalty analysis · profitability insights  
 **Python · SQL · Power BI**
 
+🔗 [View Project →](https://github.com/tonyaires/Eurofood-Corp-Sales-Customer-Analytics)
+
+---
+
 ### 🚛 Fleet Analytics
 Cost optimization across 200 vehicles (France & Spain)  
 **Python · SQL · Power BI**  
 → Identified key cost drivers (vehicle type, geography)
 
+🔗 [View Project →](https://github.com/tonyaires/Fleet-Management-Cost-Optimization-Analysis)
+
+---
+
 ### ⚡ Supply Chain Risk Prediction
 ML model for stockout risk scoring (ROC-AUC: 0.626)  
 **Python · Scikit-learn · Power BI**  
 → Risk prioritization system for operations
+
+🔗 [View Project →](https://github.com/tonyaires/Global-Tech-Supply-Chain-Risk-Prediction)
 
 ---
 
@@ -101,6 +113,8 @@ ML model for stockout risk scoring (ROC-AUC: 0.626)
 Renewable energy dashboard across France  
 **Power BI · Data Modeling · DAX**  
 → Regional performance & solar efficiency analysis
+
+🔗 [View Project →](https://github.com/tonyaires/ENEDIS-Renewable-Energy-Analytics-Dashboard)
 
 ---
 
