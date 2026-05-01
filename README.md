@@ -77,11 +77,17 @@ flowchart LR
 
 ## 🚀 Projects Portfolio
 
+---
+
 ## 📊 Dashboard Preview
 
-![Preview Dashboard](docs/preview-dashboard.png)
+![Preview Dashboard](docs/preview_dashboard.png)
+
+---
 
 ## ⭐ Featured Projects
+
+---
 
 ### 📊 Eurofood — Customer & Sales Analytics
 RFM segmentation · loyalty analysis · profitability insights  
