@@ -77,63 +77,30 @@ flowchart LR
 
 ## 🚀 Projects Portfolio
 
-### 1️⃣ Eurofood Corp — Sales & Customer Analytics
-End-to-end analysis of retail transactional data to identify revenue and profitability drivers.
+## ⭐ Featured Projects
 
-**Stack:** `Python` · `SQL` · `Power BI`
+### 📊 Eurofood — Customer & Sales Analytics
+RFM segmentation · loyalty analysis · profitability insights  
+**Python · SQL · Power BI**
 
-> **Highlights**
-> - Customer segmentation using **RFM analysis**
-> - Impact analysis of loyalty program (Members vs Non-Members)
-> - Product profitability and revenue concentration analysis
+### 🚛 Fleet Analytics
+Cost optimization across 200 vehicles (France & Spain)  
+**Python · SQL · Power BI**  
+→ Identified key cost drivers (vehicle type, geography)
 
-🔗 [View Project →](#)
-
----
-
-### 2️⃣ Global Tech — Supply Chain Risk Prediction
-Machine learning project focused on predicting **stockout risk** in a multi-warehouse environment.
-
-**Stack:** `Python` · `Machine Learning` · `Power BI`
-
-> **Highlights**
-> - Built a stockout risk scoring model (**ROC-AUC: 0.626**)
-> - Feature engineering based on supply chain operations
-> - Identified model limitations due to class imbalance
-> - Developed a risk prioritization system for operations
-
-🔗 [View Project →](#)
+### ⚡ Supply Chain Risk Prediction
+ML model for stockout risk scoring (ROC-AUC: 0.626)  
+**Python · Scikit-learn · Power BI**  
+→ Risk prioritization system for operations
 
 ---
 
-### 3️⃣ Fleet Management — Cost Optimization Analysis
-Operational analysis of a **200-vehicle fleet** across France and Spain.
+## 📁 Additional Project
 
-**Stack:** `Python` · `SQL` · `Power BI`
-
-> **Highlights**
-> - Identified vehicle type as main cost driver
-> - Analyzed cost distribution across departments
-> - Measured fleet efficiency and availability
-> - Built operational KPI dashboard
-
-🔗 [View Project →](#)
-
----
-
-### 4️⃣ ENEDIS — Renewable Energy Analytics Dashboard
-Interactive Power BI project analyzing renewable energy production across France.
-
-**Stack:** `Power BI` · `Power Query` · `Data Modeling`
-
-> **Highlights**
-> - Analysis of renewable energy production (**~4M installations**)
-> - Regional comparison of energy generation and efficiency
-> - Impact assessment of climate conditions on solar performance
-> - Identification of strong regional disparities
-> - Low energy storage adoption (**1.47%** of installations)
-
-🔗 [View Project →](#)
+### ⚡ ENEDIS Energy Analytics
+Renewable energy dashboard across France  
+**Power BI · Data Modeling · DAX**  
+→ Regional performance & solar efficiency analysis
 
 ---
 
