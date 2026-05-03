@@ -81,7 +81,7 @@ flowchart LR
 
 ## 📊 Dashboard Preview
 
-![Preview Dashboard](docs/preview_dashboard.png)
+![Preview Dashboard](docs/preview-dashboard.png)
 
 ---
 
